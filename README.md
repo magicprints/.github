@@ -1,2 +1,1 @@
-# magicprints
-Merchandise design powered by artificial inteligence.
+[![](/banner.png)](https://magicprints.xyz)
